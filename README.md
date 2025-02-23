@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Leonardo! 👋
 
 🎓 **Student** | 💻 **Programming Enthusiast**
 
@@ -24,10 +24,6 @@ Welcome to my GitHub profile! I’m a student passionate about programming and s
 Here are some projects I’ve worked on:
 
 1. **[OpenAvo Website](https://openavo4ci.altervista.org/php/homepage.php)** - A website showcasing the main projects of my class (5CI 24/25).
-
-## Contact Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
